@@ -2,3 +2,22 @@
 
 git clone
 git pull
+
+git clone https://github.com/maheshgajelli/project1.git
+  235  cd project1
+  238  git checkout -b brch1
+  240  kate main.adoc
+  243  git status
+  244  git commit -m "updating"
+  245  git push https://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@github.com/maheshgajelli/project1.git
+  246  git checkout main
+  248  git pull origin
+  250  cd ..
+  252  git clone https://github.com/maheshgajelli/githubtutorial.git
+  254  cd githubtutorial
+  255  ls
+  256  git checkout -b newtopics
+  257  kate gitlessons.adoc
+  258  git add .
+  259  git commit -m "changes"
+  260  git push https://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@github.com/maheshgajelli/githubtutorial.git
