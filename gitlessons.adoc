@@ -1,1 +1,4 @@
 == Git Fundamentals in depth
+
+git clone
+git pull
